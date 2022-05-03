@@ -1,0 +1,12 @@
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\SomsUploadExe.exe.config
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\obj\Release\SomsUploadExe.csproj.ResolveComReference.cache
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\SomsUploadExe.exe
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\SomsUploadExe.pdb
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\LINQtoCSV.dll
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\Newtonsoft.Json.dll
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\SomsUpload.dll
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\SomsUpload.pdb
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\bin\Release\Newtonsoft.Json.xml
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\obj\Release\SomsUploadExe.csprojResolveAssemblyReference.cache
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\obj\Release\SomsUploadExe.exe
+C:\TCMPProject\SomsUploadUtility\SomsUploadExe\obj\Release\SomsUploadExe.pdb

@@ -1,0 +1,6 @@
+C:\TCMPProject\SomsUploadUtility\SomsUpload\bin\Release\SomsUpload.dll
+C:\TCMPProject\SomsUploadUtility\SomsUpload\bin\Release\SomsUpload.pdb
+C:\TCMPProject\SomsUploadUtility\SomsUpload\obj\Release\SomsUpload.dll
+C:\TCMPProject\SomsUploadUtility\SomsUpload\obj\Release\SomsUpload.pdb
+C:\TCMPProject\SomsUploadUtility\SomsUpload\bin\Release\Newtonsoft.Json.dll
+C:\TCMPProject\SomsUploadUtility\SomsUpload\bin\Release\Newtonsoft.Json.xml

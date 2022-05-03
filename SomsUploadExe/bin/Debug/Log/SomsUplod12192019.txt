@@ -1,0 +1,23 @@
+12/19/2019 9:58:53 AM: Insert to SomsUpload.
+12/19/2019 9:58:53 AM: SomsUploadID is 420.
+12/19/2019 9:59:43 AM: SomsUpload bulkCopy to BASS Complated.
+12/19/2019 9:59:58 AM: SomsUpload bulkCopy to PATS Complated.
+12/19/2019 10:00:04 AM: SomsUploadId 420 total records 23848 found.
+12/19/2019 10:00:04 AM: Import For Bass....
+12/19/2019 10:01:37 AM: No new cdcr found.
+23848 rows have been updated in Offender table.
+0 pid have been added into Offender table.
+23847 rows have been updated in Episode Table.
+0 CDCR Number have been added into episode table.
+Import Completed..
+12/19/2019 10:01:37 AM: Import For Pats....
+12/19/2019 10:01:51 AM: No new cdcr found.
+23848 rows have been updated in Offender table.
+0 pid have been added into Offender table.
+26398 rows have been updated in Episode Table.
+0 new cdcr have been added into Episode table.
+Import Completed.
+Soms data delete from Pats..
+12/19/2019 10:01:51 AM:  BASSexport.csv rename to BASSexport201912191051.csv.
+12/19/2019 10:01:51 AM: Send email to TCMP ...12/19/2019 10:01:51 AM.
+12/19/2019 10:01:51 AM:  Message sent..
